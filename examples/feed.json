@@ -1,0 +1,26 @@
+{
+  "title": "Omnipotent Media plugin news",
+  "link": "https://github.com/OmnipotentCEOxJenny",
+  "description": "New free plugins by Rob Domaine, built by Jenny Echo.",
+  "language": "en-us",
+  "items": [
+    {
+      "title": "PlanPilot: turn a goal into a project plan",
+      "link": "https://github.com/OmnipotentCEOxJenny/planpilot",
+      "description": "Charter, task breakdown, schedule and risk list.",
+      "date": "2026-10-22T14:03:00-04:00"
+    },
+    {
+      "title": "StatusScribe: clear status updates",
+      "link": "https://github.com/OmnipotentCEOxJenny/statusscribe",
+      "description": "Write and check status memos.",
+      "date": "2026-10-22T14:08:00-04:00"
+    },
+    {
+      "title": "CutList: plan a video edit",
+      "link": "https://github.com/OmnipotentCEOxJenny/cutlist",
+      "description": "Timed cut lists and runtime checks.",
+      "date": "2026-10-22T14:13:00-04:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Omnipotent Media plugin news</title>
+    <link>https://github.com/OmnipotentCEOxJenny</link>
+    <description>New free plugins by Rob Domaine, built by Jenny Echo.</description>
+    <lastBuildDate>Thu, 22 Oct 2026 14:13:00 -0400</lastBuildDate>
+    <language>en-us</language>
+    <generator>Bright RSS</generator>
+    <item>
+      <title>PlanPilot: turn a goal into a project plan</title>
+      <link>https://github.com/OmnipotentCEOxJenny/planpilot</link>
+      <description>Charter, task breakdown, schedule and risk list.</description>
+      <guid isPermaLink="true">https://github.com/OmnipotentCEOxJenny/planpilot</guid>
+      <pubDate>Thu, 22 Oct 2026 14:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>StatusScribe: clear status updates</title>
+      <link>https://github.com/OmnipotentCEOxJenny/statusscribe</link>
+      <description>Write and check status memos.</description>
+      <guid isPermaLink="true">https://github.com/OmnipotentCEOxJenny/statusscribe</guid>
+      <pubDate>Thu, 22 Oct 2026 14:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CutList: plan a video edit</title>
+      <link>https://github.com/OmnipotentCEOxJenny/cutlist</link>
+      <description>Timed cut lists and runtime checks.</description>
+      <guid isPermaLink="true">https://github.com/OmnipotentCEOxJenny/cutlist</guid>
+      <pubDate>Thu, 22 Oct 2026 14:13:00 -0400</pubDate>
+    </item>
+  </channel>
+</rss>
