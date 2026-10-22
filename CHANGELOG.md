@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.2 (2026-10-22)
+- Example feed: the CutList item now points to the renamed plugin, Scene Order (github.com/OmnipotentCEOxJenny/sceneorder).
+
 ## 1.0.1 (2026-10-22)
 - Example feed (`examples/feed.json`, `examples/feed.xml`): the PlanPilot item now points to the renamed plugin, PlanOmega (github.com/OmnipotentCEOxJenny/planomega).
 
