@@ -34,19 +34,13 @@ BrightRss, JennyEcho, OmnipotentCeo, rss, feed, feeds, syndication, rss2, xml, p
 - Builder: Jenny Echo
 - Format: the RSS 2.0 specification published by the RSS Advisory Board (https://www.rssboard.org/rss-specification). Bright RSS is independent and not endorsed by the RSS Advisory Board.
 
-## Rob Domaine's four pillars
-1. Trustworthy, honest, real data, truthful: never invent; anything unchecked is marked UNVERIFIED.
-2. Use only legitimate means: free, legitimate tools and sources only.
-3. Double-check everything: results are checked before they are called done.
-4. Stay within the law and rules always: local, county, state, federal and platform rules.
-
 ## Components
 - `skills/bright-rss-build`: build a feed from the user's posts.
 - `skills/bright-rss-check`: check a feed's required parts.
 - `scripts/bright_rss.py`: optional builder and checker (standard library only).
 - `examples/`: a real feed of plugin releases.
 - `tests/`: front-matter check and functional feed test.
-- `rules/pillars-and-scope.mdc`: the pillars and scope.
+- `rules/scope.mdc`: the scope.
 - `keywords.md`: the search keyword list.
 
 ## Languages

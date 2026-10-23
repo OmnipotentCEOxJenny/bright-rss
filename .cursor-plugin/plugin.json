@@ -1,7 +1,7 @@
 {
   "name": "bright-rss",
   "displayName": "Bright RSS",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Free helper that lets your AI assistant make an RSS feed for your blog, podcast or news, so followers get every update in their feed reader, and check the feed has everything it needs before you publish.",
   "author": {
     "name": "Rob Domaine / Omnipotent Media LLC"
